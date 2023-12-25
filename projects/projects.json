@@ -1,0 +1,65 @@
+[
+ 
+  {
+    "name": "Student Management System",
+    "desc": "Full-Stack Ed-Tech website using React,Django and PostgreSQL",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "Car Rental App",
+    "desc": "Full-Stack Car Booking App for client using React and Django",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "A personal portfolio website using HTML,CSS and Javascript",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+  {
+    "name": "React Dashboard",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/React-Projects"
+    }
+  },
+  {
+    "name": "Byte Coding Frontend",
+    "desc": "Frontend for the Ed-Tech startup website",
+    "image": "flipkartphp",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
+      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+    }
+  },
+  {
+    "name": "AK associates app",
+    "desc": "This freelanced website is specially build to handle the files and manage all the works of the company",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  }
+  
+ 
+]
